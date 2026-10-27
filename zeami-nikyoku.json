@@ -6,7 +6,12 @@
  "yomi": "にきょくさんたいにんぎょうず",
  "category": "能・狂言",
  "kind": "noh",
- "description": null,
+ "description": {
+  "kind": "能楽論",
+  "era": "応永28年（1421）",
+  "author": "世阿弥",
+  "desc": "舞と歌の二曲と、老・女・軍の三体を、絵を添えて説いた能楽論。"
+ },
  "editions": [
   {
    "pid": "859394",
